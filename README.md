@@ -7,6 +7,12 @@
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-00e599?style=for-the-badge)](LICENSE)
 
+<br/>
+
+<p align="center">
+  <img src="cover.jpg" alt="NightGuard AI Banner" width="100%" />
+</p>
+
 > **Built for a Friend:** Handcrafted for **Liam Vance**, a 24-year-old developer and Type-1 Diabetic who lives in constant dread of waking up disoriented in a cold sweat from a 3:00 AM nocturnal hypoglycemic crash.
 
 ---

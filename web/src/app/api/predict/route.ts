@@ -81,7 +81,7 @@ function calculateBayesianRisk(p: PredictPayload) {
       countermeasures.push(`Keep fast-acting glucose tablets bedside (Alcohol suppresses liver gluconeogenesis).`);
     }
     if (exMin >= 30) {
-      countermeasures.push(`Late glycogen repletion crash window predicted between 02:30 AM – 04:30 AM.`);
+      countermeasures.push(`Late glycogen repletion crash window predicted between 02:30 AM - 04:30 AM.`);
     }
   } else if (prob >= 0.35) {
     countermeasures.push("Ingest 12g slow-release bedtime snack (e.g. handful of almonds or Greek yogurt).");
@@ -89,7 +89,7 @@ function calculateBayesianRisk(p: PredictPayload) {
     countermeasures.push("Basal Advisory: Consider -15% temp basal rate for 2 hours if IOB remains active.");
     countermeasures.push("Nightstand Check: Keep 15g fast-acting carbohydrates within arm's reach.");
   } else {
-    countermeasures.push("Metabolic balance steady. Predicted nocturnal nadir within safe range (80–120 mg/dL).");
+    countermeasures.push("Metabolic balance steady. Predicted nocturnal nadir within safe range (80-120 mg/dL).");
     countermeasures.push("Hydration: Standard glass of water before sleep to sustain interstitial fluid.");
     countermeasures.push("Basal Profile: Maintain standard scheduled basal rate without temp adjustments.");
     countermeasures.push("Sensor Alert: Confirm CGM urgent low alarm threshold is active at 75 mg/dL.");

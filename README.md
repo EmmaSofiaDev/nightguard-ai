@@ -14,6 +14,10 @@
 </p>
 
 > **Built for a Friend:** Handcrafted for **Liam Vance**, a 24-year-old developer and Type-1 Diabetic who lives in constant dread of waking up disoriented in a cold sweat from a 3:00 AM nocturnal hypoglycemic crash.
+> 
+> **Challenge Categories Submitted:**
+> * 🏆 **Best Use of TabPFN** (Prior Labs Tabular Foundation Model)
+> * 🚀 **Secondary Category:** **Best Use of Render** (Cloud Blueprint & Automated Deployment)
 
 ---
 
